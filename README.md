@@ -95,7 +95,7 @@ My background combines hands-on technical training at SENAI (Microsoft AI-900 tr
 
 ---
 
-<img width="1260" height="960" alt="mario-coding" src="https://github.com/user-attachments/assets/1439fd01-8c41-4e5e-b023-95f92de850e9" />
+<img width="444" height="260" alt="mario-coding" src="https://github.com/user-attachments/assets/1439fd01-8c41-4e5e-b023-95f92de850e9" />
 
 ---
 
