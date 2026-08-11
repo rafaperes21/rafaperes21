@@ -7,7 +7,7 @@ I work with Python applied to data — cleaning and transforming datasets with P
 My background combines hands-on technical training at SENAI (Microsoft AI-900 track, cloud security, programming logic) with an academic habit of documenting reasoning clearly — something I try to carry into every repository here.
 
 
-<div class="tenor-gif-embed" data-postid="21081679" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/juju-gif-21081679">Juju GIF</a>from <a href="https://tenor.com/search/juju-gifs">Juju GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Uploading download.gif…]()
 
 ---
 
