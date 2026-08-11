@@ -95,15 +95,7 @@ My background combines hands-on technical training at SENAI (Microsoft AI-900 tr
 
 ---
 
-### 📌 Featured Projects
-
-> [PREENCHER: substitua pelos seus repositórios reais assim que publicá-los]
-
-**[project-name]** — Short description of the question the analysis answered, the dataset used, and the main finding.
-`Python` `Pandas` `Matplotlib`
-
-**[project-name]** — Short description.
-`Python` `Pandas`
+<img width="1920" height="1080" alt="mario-coding" src="https://github.com/user-attachments/assets/1439fd01-8c41-4e5e-b023-95f92de850e9" />
 
 ---
 
