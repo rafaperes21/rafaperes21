@@ -7,7 +7,7 @@ I work with Python applied to data — cleaning and transforming datasets with P
 My background combines hands-on technical training at SENAI (Microsoft AI-900 track, cloud security, programming logic) with an academic habit of documenting reasoning clearly — something I try to carry into every repository here.
 
 
-![Uploading download.gif…]()
+<img width="444" height="250" alt="download" src="https://github.com/user-attachments/assets/e8bbbbdb-40e2-4c8a-91ab-e87f24c3afe2" />
 
 ---
 
