@@ -5,7 +5,7 @@
 
 **IT Intern at Microblau · Data & Python enthusiast · São Paulo, Brazil**
 
-I work with Python applied to data — cleaning and transforming datasets with Pandas, running exploratory analysis, and building visualizations that turn raw numbers into decisions people can actually act on. Currently studying [PREENCHER: curso] and expanding into SQL and cloud data tooling.
+I work with Python applied to data — cleaning and transforming datasets with Pandas, running exploratory analysis, and building visualizations that turn raw numbers into decisions people can actually act on. Currently studying Computer Science and expanding into SQL and cloud data tooling.
 
 My background combines hands-on technical training at SENAI (Microsoft AI-900 track, cloud security, programming logic) with an academic habit of documenting reasoning clearly — something I try to carry into every repository here.
 
